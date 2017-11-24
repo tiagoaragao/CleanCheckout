@@ -1,8 +1,33 @@
-# Clean Checkout for Magento 2
+# Firebear Checkout for Magento 2
 
-A drop-in replacement for the Magento 2 checkout.
+Most features reach checkout for Magento 2 based on free and open source CleanCheckout
 
-## Features
+
+## Full / paid version Features
+
+- One step or multiple steps checkout switch
+- Mobile first: super optimised UX for mobile conversion growth 
+- Option for skip cart page - single product quick purchase 
+- VAT validation 
+- Check out page constructor, which allow drag & drop checkout page builsing
+- Default values for each checkout step/block 
+- Delivery date / time selection 
+- Store pickup with stores map 
+- Easy guest to customer conversion after purchase 
+- Checkout abandonment tracking and followup emails 
+- Edit cart page, product options at checkout, implement coupon
+- Gift wrap & gift message 
+- Newsletter subscription integration with Mailchimp, Active campaign, SendGrid
+- Login and registration directly at checkout 
+- Add custom forms, banners, static blocks to checkout
+- Add Google Analytics even for each field and step for advanced analytics tracking 
+- Google Analytics enhanced e-commerce tracking integration 
+- Full-text search for each dropdown to make things easier for customer
+- Allow attach files to order by customer - PDF , DOC specification and more
+- Integration with TypeForm for custom survey and get extra info on friendly way 
+- Integration with Stripe and PayPal express checkout - get all data pre-filled from customer profile but checkout on Magento 
+
+## Free version Features
 
 - Overall checkout improvements, such as;
     - Show input labels next to the fields
