@@ -11,8 +11,7 @@
             "Rubic\\CleanCheckout\\": ""
         }
     },
-    "require": {
-        "geoip2/geoip2": "^2.0",
+    "require": {       
         "hybridauth/hybridauth" : "^3.0"
     }
 }
